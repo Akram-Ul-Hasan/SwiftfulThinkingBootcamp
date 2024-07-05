@@ -15,6 +15,7 @@
 		C50182332C35CCEC00653957 /* ShapesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C50182322C35CCEC00653957 /* ShapesBootcamp.swift */; };
 		C56027E32C3808C600BA168D /* GradientsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C56027E22C3808C600BA168D /* GradientsBootcamp.swift */; };
 		C56027E52C38101E00BA168D /* IconsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C56027E42C38101E00BA168D /* IconsBootcamp.swift */; };
+		C56027E72C381CF300BA168D /* ImageBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C56027E62C381CF300BA168D /* ImageBootcamp.swift */; };
 		C5DD5F302C371B8B001EA62F /* ColorsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5DD5F2F2C371B8B001EA62F /* ColorsBootcamp.swift */; };
 /* End PBXBuildFile section */
 
@@ -28,6 +29,7 @@
 		C50182322C35CCEC00653957 /* ShapesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapesBootcamp.swift; sourceTree = "<group>"; };
 		C56027E22C3808C600BA168D /* GradientsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientsBootcamp.swift; sourceTree = "<group>"; };
 		C56027E42C38101E00BA168D /* IconsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconsBootcamp.swift; sourceTree = "<group>"; };
+		C56027E62C381CF300BA168D /* ImageBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageBootcamp.swift; sourceTree = "<group>"; };
 		C5DD5F2F2C371B8B001EA62F /* ColorsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -65,6 +67,7 @@
 				C50182242C35C51000653957 /* ContentView.swift */,
 				C50182322C35CCEC00653957 /* ShapesBootcamp.swift */,
 				C56027E42C38101E00BA168D /* IconsBootcamp.swift */,
+				C56027E62C381CF300BA168D /* ImageBootcamp.swift */,
 				C5DD5F2F2C371B8B001EA62F /* ColorsBootcamp.swift */,
 				C56027E22C3808C600BA168D /* GradientsBootcamp.swift */,
 				C50182302C35C8C300653957 /* TextBootcamp.swift */,
@@ -158,6 +161,7 @@
 				C50182252C35C51000653957 /* ContentView.swift in Sources */,
 				C50182312C35C8C300653957 /* TextBootcamp.swift in Sources */,
 				C50182232C35C51000653957 /* SwiftfulThinkingBootcampApp.swift in Sources */,
+				C56027E72C381CF300BA168D /* ImageBootcamp.swift in Sources */,
 				C56027E52C38101E00BA168D /* IconsBootcamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
