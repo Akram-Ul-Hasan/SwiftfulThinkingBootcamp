@@ -34,6 +34,7 @@
 		C56027EB2C3824E200BA168D /* BackgroundAndOverlayBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C56027EA2C3824E200BA168D /* BackgroundAndOverlayBootcamp.swift */; };
 		C56027ED2C38393300BA168D /* StacksBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C56027EC2C38393300BA168D /* StacksBootcamp.swift */; };
 		C5C638A32C4FD79800D5FA0E /* AnimationBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5C638A22C4FD79800D5FA0E /* AnimationBootcamp.swift */; };
+		C5C638A52C4FDB1E00D5FA0E /* AnimationTimingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5C638A42C4FDB1E00D5FA0E /* AnimationTimingBootcamp.swift */; };
 		C5DD5F302C371B8B001EA62F /* ColorsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5DD5F2F2C371B8B001EA62F /* ColorsBootcamp.swift */; };
 /* End PBXBuildFile section */
 
@@ -66,6 +67,7 @@
 		C56027EA2C3824E200BA168D /* BackgroundAndOverlayBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundAndOverlayBootcamp.swift; sourceTree = "<group>"; };
 		C56027EC2C38393300BA168D /* StacksBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StacksBootcamp.swift; sourceTree = "<group>"; };
 		C5C638A22C4FD79800D5FA0E /* AnimationBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationBootcamp.swift; sourceTree = "<group>"; };
+		C5C638A42C4FDB1E00D5FA0E /* AnimationTimingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationTimingBootcamp.swift; sourceTree = "<group>"; };
 		C5DD5F2F2C371B8B001EA62F /* ColorsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -111,6 +113,7 @@
 				C56027E42C38101E00BA168D /* IconsBootcamp.swift */,
 				C56027E62C381CF300BA168D /* ImageBootcamp.swift */,
 				C5C638A22C4FD79800D5FA0E /* AnimationBootcamp.swift */,
+				C5C638A42C4FDB1E00D5FA0E /* AnimationTimingBootcamp.swift */,
 				C56027E82C3820A400BA168D /* FrameBootcamp.swift */,
 				C56027EA2C3824E200BA168D /* BackgroundAndOverlayBootcamp.swift */,
 				C56027EC2C38393300BA168D /* StacksBootcamp.swift */,
@@ -222,6 +225,7 @@
 				C52E280F2C4E807F00FBB52E /* TernaryBootcamp.swift in Sources */,
 				C50182332C35CCEC00653957 /* ShapesBootcamp.swift in Sources */,
 				C52E28032C4E549400FBB52E /* ButtonsBootcamp.swift in Sources */,
+				C5C638A52C4FDB1E00D5FA0E /* AnimationTimingBootcamp.swift in Sources */,
 				C52E28012C4E4EF500FBB52E /* SafeAreaBootcamp.swift in Sources */,
 				C50182252C35C51000653957 /* ContentView.swift in Sources */,
 				C52E27F92C4E376600FBB52E /* ForEachBootcamp.swift in Sources */,
